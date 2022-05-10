@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Trevin_Mabarana_-_Software_Engineer.pdf](https://github.com/TrevinKM/TrevinKM/files/8664083/Trevin_Mabarana_-_Software_Engineer.pdf)
 
 <!--
 **TrevinKM/TrevinKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
