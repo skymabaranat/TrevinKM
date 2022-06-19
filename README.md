@@ -10,7 +10,8 @@
 📈 Here is my CV. Look below for some of my ✨favourite projects✨
 
 
-![image](https://user-images.githubusercontent.com/64080171/167697975-eaffc4fd-779f-4d48-8d94-7c7a9ca745db.png)
+![image](https://user-images.githubusercontent.com/64080171/174501940-e99c9c89-004f-4e37-80c4-e2bc84b0ca15.png)
+
 
 <!--
 **TrevinKM/TrevinKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
