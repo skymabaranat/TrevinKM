@@ -33,9 +33,9 @@
           📈 Here is my CV. Look below for some of my ✨favourite projects✨
 
 </p>
-
-
-![image align="center"](https://user-images.githubusercontent.com/64080171/174501940-e99c9c89-004f-4e37-80c4-e2bc84b0ca15.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64080171/174501940-e99c9c89-004f-4e37-80c4-e2bc84b0ca15.png">
+</p>
 
 
 <!--
